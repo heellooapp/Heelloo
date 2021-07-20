@@ -27,7 +27,7 @@
     "moment": "^2.24.0",
     "react": "16.9.0",
     "react-moment": "^0.9.7",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-action-button": "^2.8.5",
     "react-native-action-sheet": "^2.2.0",
     "react-native-collapsible": "^1.5.1",
